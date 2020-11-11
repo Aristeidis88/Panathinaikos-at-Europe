@@ -1,0 +1,116 @@
+body {
+    background-color:rgb(9, 71, 9);
+    margin: 0px;}
+
+.header {
+    background-image: url(plogo.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 400px;}
+
+
+nav {background-color: rgba(28, 121, 33, 0.342);
+    padding-left: 420px;
+    position: sticky;
+    top: 0;}
+
+.menu a {margin: 15px;
+         font-size: 40px;
+         font-weight: 900;
+         color: white;
+         }
+
+
+
+
+.htext {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    padding-top: 100px;
+    font-weight: 900;
+    font-style: oblique;
+    position: webkit sticky;
+    position: sticky;
+    top: 0;}
+
+
+
+
+.main1 img {width: 100%; border: groove;}
+.main2 img {width: 100%; border: groove;}
+.main3 img {width: 100%; border: groove;}
+.main4 img {width: 100%; border: groove;}
+.main5 img {width: 100%; border: groove;}
+.main6 img {width: 100%; border: groove;}
+
+
+
+.tv1 {width: 600px;
+    height: 600px;
+    margin-left: 800px;
+    margin-top: -650px;}
+
+
+.tv1 img{border-radius: 10px;}
+
+
+
+.video1 {margin-left: 36px;
+         margin-top: -360px;}
+
+.video1 iframe
+        {border-radius: 20px;}
+
+.p1 {color: white;
+     font-size: 25px;
+     margin-top: 60px;}
+
+        
+    
+        .tv2 {width: 600px;
+            height: 600px;
+            margin-left: 800px;
+            margin-top: -650px;}
+        
+        
+        .tv2 img{border-radius: 10px;}
+        
+        
+        
+        .video2 {margin-left: 36px;
+                 margin-top: -360px;}
+        
+        .video2 iframe
+                {border-radius: 20px;}
+
+        .p2 {color: white;
+             font-size: 25px;
+             margin-top: 60px;}
+
+
+        .main1 p {text-align: center;
+                 color: white;
+                 margin-left: 600px;
+                 margin-top: -700px;}
+
+        
+    
+        .nav1 {padding-left: 1370px;}
+        
+
+        .nav1 a{background-color: rgba(0, 128, 0, 0.61);
+                height: 30px;
+                width: 30px;
+                color: ivory;
+                font-weight: 900;
+                cursor: pointer;
+                font-size: 25px;
+                padding: 5px;}
+
+
+        
+
+         
